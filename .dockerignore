@@ -1,0 +1,15 @@
+target/
+.git/
+.gitignore
+
+# Editor stuff
+.idea/
+*.iml
+.vscode/
+.sts4-cache/
+.classpath
+.project
+.settings/
+
+# Other files
+HELP.md
